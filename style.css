@@ -73,4 +73,5 @@ button{
     border: transparent;
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
+    width: 100px;
 }
